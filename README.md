@@ -1,4 +1,4 @@
-A simple react project that it has been created with the help of Vite. It allows you to pick any color displaying with it's color code.
+A simple react project created with the help of Vite. It allows you to pick any color displaying with it's color code.
 
 # React + Vite
 
